@@ -4,6 +4,6 @@
 ## Как установить программу: 
 1. Скачиваем и распаковываем куда-угодно Weather_forecast.zip
 2. Открываем папку внутри.
-3. Находим файл, что называется Weather_forecast_project - это и есть сама программа.  
+3. Находим файл, что называется Weather_forecast_project.exe - это и есть сама программа.  
 ## Пример работы программы:
 <img width="382" height="797" alt="Image" src="https://github.com/user-attachments/assets/9cc1f915-dad2-414f-b6a8-89816f038315"/>
